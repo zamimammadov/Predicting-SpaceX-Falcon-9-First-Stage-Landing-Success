@@ -95,15 +95,15 @@ This project demonstrates how **data science and machine learning** can be appli
 
 
 Install dependencies:
-
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 
 Run Jupyter notebooks step by step.
-
+     
 Launch the dashboard locally:
-
-python app/app.py
+    ```bash
+    python app/app.py
 
 📚 References
 
