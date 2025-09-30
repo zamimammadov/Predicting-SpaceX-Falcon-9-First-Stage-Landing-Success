@@ -88,21 +88,23 @@ This project demonstrates how **data science and machine learning** can be appli
 ---
 
 ## 🚀 How to Run the Project  
+
 1. Clone this repository:  
+   
    ```bash
    git clone https://github.com/yourusername/ibm-spacex-capstone.git
    cd ibm-spacex-capstone
 
 
-Install dependencies:
+2. Install dependencies:
     
     ```bash
     pip install -r requirements.txt
 
 
-Run Jupyter notebooks step by step.
+3. Run Jupyter notebooks step by step.
      
-Launch the dashboard locally:
+4. Launch the dashboard locally:
     
     ```bash
     python app/app.py
