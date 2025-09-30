@@ -1,4 +1,8 @@
- has revolutionized the aerospace industry by successfully landing reusable rocket boosters, dramatically reducing the cost of space travel.  
+# 🚀 SpaceX Falcon 9 First Stage Landing Prediction  
+*Applied Data Science Capstone – IBM / Coursera*  
+
+## 📌 Project Overview  
+SpaceX has revolutionized the aerospace industry by successfully landing reusable rocket boosters, dramatically reducing the cost of space travel.  
 This project aims to **predict the landing success of Falcon 9 first stages** using historical launch data. The ability to accurately forecast landings can provide valuable insights for stakeholders, engineers, and investors when estimating launch costs.  
 
 ---
@@ -14,6 +18,8 @@ This project aims to **predict the landing success of Falcon 9 first stages** us
 ---
 
 ## 📂 Repository Structure  
+
+
 .
 ├── data/ # Raw and processed datasets
 ├── notebooks/ # Jupyter notebooks for each stage
@@ -28,8 +34,6 @@ This project aims to **predict the landing success of Falcon 9 first stages** us
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
 
-yaml
-Copy code
 
 ---
 
@@ -89,27 +93,27 @@ This project demonstrates how **data science and machine learning** can be appli
    ```bash
    git clone https://github.com/yourusername/ibm-spacex-capstone.git
    cd ibm-spacex-capstone
+
+
 Install dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
+
+
 Run Jupyter notebooks step by step.
 
 Launch the dashboard locally:
 
-bash
-Copy code
 python app/app.py
+
 📚 References
+
 SpaceX REST API
 
 Wikipedia Falcon 9 Launch Data
 
 IBM Data Science Professional Certificate (Coursera)
 
-yaml
-Copy code
 
 ---
 
