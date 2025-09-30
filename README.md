@@ -19,8 +19,6 @@ This project aims to **predict the landing success of Falcon 9 first stages** us
 
 ## 📂 Repository Structure  
 
-
-.
 -├── data/ # Raw and processed datasets
 -├── notebooks/ # Jupyter notebooks for each stage
 -│ ├── 01_data_wrangling.ipynb
