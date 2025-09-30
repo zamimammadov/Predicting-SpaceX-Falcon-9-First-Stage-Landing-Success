@@ -17,21 +17,22 @@ This project aims to **predict the landing success of Falcon 9 first stages** us
 
 ---
 
-## 📂 Repository Structure  
-.
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for each stage
-│ ├── 01_data_wrangling.ipynb
-│ ├── 02_eda_sql.ipynb
-│ ├── 03_eda_visual.ipynb
-│ ├── 04_interactive_maps.ipynb
-│ ├── 05_machine_learning.ipynb
-│ └── 06_dashboard_app.ipynb
-├── app/ # Plotly Dash dashboard files
-├── reports/ # Final report & presentation
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
+## 📂 Repository Structure:
+    
+    ```bash
+    .
+    ├── 📁 data/                # Raw and processed datasets
+    ├── 📁 notebooks/           # Jupyter notebooks (step-by-step workflow)
+    │   ├── 01_data_wrangling.ipynb
+    │   ├── 02_eda_sql.ipynb
+    │   ├── 03_eda_visual.ipynb
+    │   ├── 04_interactive_maps.ipynb
+    │   ├── 05_machine_learning.ipynb
+    │   └── 06_dashboard_app.ipynb
+    ├── 📁 app/                 # Plotly Dash dashboard files
+    ├── 📁 reports/             # Final report & presentation
+    ├── 📄 requirements.txt     # Project dependencies
+    └── 📄 README.md            # Project documentation
 
 ---
 
@@ -114,10 +115,3 @@ IBM Data Science Professional Certificate (Coursera)
 
 
 ---
-
-👉 Bu haliyle hazır bir **README.md** dosyası. Sen sadece:  
-- `XX%` olan accuracy değerini kendi sonuçlarınla değiştir.  
-- Dashboard’un ekran görüntüsünü eklemek için `![Dashboard Screenshot](app/screenshot.png)` gibi bir satır koyabilirsin.  
-- Repo adını kendi GitHub kullanıcı adına göre güncelle.  
-
-İstersen ben sana bunun **daha kısa, recruiter-friendly (tek sayfa)** versiyonunu da yazabilirim. Onu ister misin?
