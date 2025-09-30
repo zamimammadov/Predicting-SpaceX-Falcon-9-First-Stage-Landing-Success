@@ -19,18 +19,18 @@ This project aims to **predict the landing success of Falcon 9 first stages** us
 
 ## 📂 Repository Structure  
 
--├── data/ # Raw and processed datasets
--├── notebooks/ # Jupyter notebooks for each stage
--│ ├── 01_data_wrangling.ipynb
--│ ├── 02_eda_sql.ipynb
--│ ├── 03_eda_visual.ipynb
--│ ├── 04_interactive_maps.ipynb
--│ ├── 05_machine_learning.ipynb
--│ └── 06_dashboard_app.ipynb
--├── app/ # Plotly Dash dashboard files
--├── reports/ # Final report & presentation
--├── requirements.txt # Project dependencies
--└── README.md # Project documentation
+├── data/ # Raw and processed datasets
+├── notebooks/ # Jupyter notebooks for each stage
+│ ├── 01_data_wrangling.ipynb
+│ ├── 02_eda_sql.ipynb
+│ ├── 03_eda_visual.ipynb
+│ ├── 04_interactive_maps.ipynb
+│ ├── 05_machine_learning.ipynb
+│ └── 06_dashboard_app.ipynb
+├── app/ # Plotly Dash dashboard files
+├── reports/ # Final report & presentation
+├── requirements.txt # Project dependencies
+└── README.md # Project documentation
 
 
 ---
